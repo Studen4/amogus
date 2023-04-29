@@ -4,5 +4,6 @@
 [![Build Status](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/badges/build.png?b=dev)](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/build-status/dev)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/badges/code-intelligence.svg?b=dev)](https://scrutinizer-ci.com/code-intelligence)
 > Walk confidently towards your dream. Live the life you imagined for yourself.
+
 > Henry-David Thoro
 
