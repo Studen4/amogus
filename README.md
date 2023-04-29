@@ -3,7 +3,6 @@
 [![PyLint](https://img.shields.io/badge/PyLint--brightgreen.svg)](https://codeclimate.com/github/Studen4/DICT_python_education_-_-/maintainability)
 [![Build Status](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/badges/build.png?b=dev)](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/build-status/dev)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/Studen4/DICT_python_education_-_-/badges/code-intelligence.svg?b=dev)](https://scrutinizer-ci.com/code-intelligence)
-> Walk confidently towards your dream. Live the life you imagined for yourself.
+> So boring to try put something in this README.md so ... OK, it's so bad but don't worry - that's normal -_-
 
-> Henry-David Thoro
 
