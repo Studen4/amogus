@@ -1,0 +1,27 @@
+name: CodeClimate Analysis
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  codeclimate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Run CodeClimate Analysis
+        uses: codeclimate/action-eslint@v2.2.2
+        env:
+          CODECLIMATE_CODE: ${{ secrets.CODECLIMATE_CODE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: '**/*.js'
+
+      - name: Upload Report to GitHub
+        uses: actions/upload-artifact@v2
+        with:
+          name: codeclimate-report
+          path: .codeclimate.json
